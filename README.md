@@ -13,5 +13,6 @@ Tool to search on the Indeed job board for France
 
 6. Reprocess the Notebook every 3 days to have an update on job posted (do not forget to copy/paste again the CSV file in the cloud).
 
+Be careful: If your request does not work, wait for a 15-20 minutes as Indeed stop recognizing your process as a bot.
 
 Disclaimer: this is an adaptation of original work done by Izzy Analytics for US Indeed page.
